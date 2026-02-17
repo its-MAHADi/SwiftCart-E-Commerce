@@ -1,4 +1,5 @@
 1) What is the difference between null and undefined?
+
 Ans : Null: ডেভেলপার ম্যানুয়ালি কোনো ভেরিয়েবলকে খালি (empty) বা “no value” হিসেবে সেট করে।
 Undefined: কোনো ভেরিয়েবল ডিক্লেয়ার করা হলেও এর মান দেওয়া না হলে এটি স্বয়ংক্রিয়ভাবে undefined হয়।
 
